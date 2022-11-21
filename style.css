@@ -1,0 +1,29 @@
+.menu {
+    background-color: aliceblue;
+    font: open-sans;
+    font-size: 20px;
+    color: black;
+}
+
+.name {
+    font: open-sans;
+    font-size: large;
+    color: black;
+}
+
+body {
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodecanyon.net%2Fitem%2Fcssanimatedgradientbackgrounds%2F36537435&psig=AOvVaw3qqLjO6wKv5ByBsq2-AAan&ust=1669068651838000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICgkLPjvfsCFQAAAAAdAAAAABAN);
+}
+
+h1 {
+    font-size: 60;  
+}
+
+h2 {
+    font-size: 40;  
+}
+
+h3 {
+    font-size: 20;  
+}
+
